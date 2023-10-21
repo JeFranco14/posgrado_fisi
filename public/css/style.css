@@ -80,8 +80,8 @@
 
 /*** Navbar ***/
 .logofisi{
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     margin: 0px 16px 0px 0px;
 }
 .navbar .dropdown-toggle::after {
@@ -160,6 +160,7 @@
 
 /*** Header carousel ***/
 @media (max-width: 768px) {
+    
     .header-carousel .owl-carousel-item {
         position: relative;
         min-height: 500px;
@@ -261,7 +262,7 @@
 
 /*** Service ***/
 .service-item {
-    background: var(--light);
+    background: #f1f1f1;
     transition: .5s;
 }
 
@@ -503,7 +504,7 @@
 	position:relative;
 }
 .fun-facts.section{
-	padding:120px 0;
+	padding:50px 0;
 }
 .fun-facts{
 	background-image: url('../img/unsm.jpg');
