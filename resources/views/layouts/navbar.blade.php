@@ -24,18 +24,18 @@
             <a href="{{ route('nosotros') }}" class="nav-item nav-link">Nosotros</a>
             <div class="nav-item dropdown">
                 <a href="courses.html" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Maestrias</a>
-                <div class="dropdown-menu fade-down m-0">
-                    <a href="team.html" class="dropdown-item">Ciencias en TI</a>
-                    <a href="testimonial.html" class="dropdown-item">Analisis de Datos</a>
-                    <a href="404.html" class="dropdown-item">Ciberseguridad</a>
+                <div class="dropdown-menu fade-down m-0 p-0">
+                    <a href="team.html" class="dropdown-item p-2 text-success">Ciencias en TI</a>
+                    <a href="testimonial.html" class="dropdown-item p-2 text-success">Analisis de Datos</a>
+                    <a href="404.html" class="dropdown-item p-2 text-success">Ciberseguridad</a>
                 </div>
             </div>
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Doctorados</a>
-                <div class="dropdown-menu fade-down m-0">
-                    <a href="team.html" class="dropdown-item">Doctorados</a>
-                    <a href="testimonial.html" class="dropdown-item">Testimoni</a>
-                    <a href="404.html" class="dropdown-item">404 Page</a>
+                <div class="dropdown-menu fade-down m-0 p-0">
+                    <a href="team.html" class="dropdown-item p-2 text-success">Doctorados</a>
+                    <a href="testimonial.html" class="dropdown-item p-2 text-success">Testimoni</a>
+                    <a href="404.html" class="dropdown-item p-2 text-success">404 Page</a>
                 </div>
             </div>
             <a href="{{ route('contactanos') }}" class="nav-item nav-link">Contactenos</a>

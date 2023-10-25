@@ -7,9 +7,32 @@ body{
 .navbar-nav a{
     font-weight: 100 !important;
 }
+.bg-light{
+    background: #f1f1f1 !important;
+}
+a{
+    text-decoration: none !important;
+}
 *{
     user-select: none !important;
 }
 .service-item p{
     font-weight: 200 !important;
+}
+/*** Service ***/
+.contact-item {
+    cursor: pointer;
+    background: #f1f1f1;
+    transition: .5s;
+}
+
+.contact-item:hover {
+    margin-top: -5px;
+    background: var(--primary);
+}
+.contact-item:hover * {
+    color: var(--light) !important;
+}
+.contact-item:hover i {
+    color: var(--primary) !important;
 }

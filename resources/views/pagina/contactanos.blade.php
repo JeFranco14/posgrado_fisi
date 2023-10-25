@@ -6,7 +6,7 @@
             <div class="bread-inner">
                 <div class="row">
                     <div class="col-12">
-                        <h2>Contactenos</h2>
+                        <h2>Comunícate con nosotros</h2>
                         <!--
                             <ul class="bread-list">
                             <li><a href="index.html">Inicio</a></li>
@@ -25,37 +25,35 @@
     <!-- Contact Start -->
     <div class="container-xxl py-5">
         <div class="container">
-            <h1 class="text-center mb-5 wow fadeInUp" data-wow-delay="0.1s"
-                style="font-weight: 600; font-size: 37;font-family: 'Poppins', sans-serif;">Comunicate con Nosotros</h1>
             <div class="row g-4">
                 <div class="col-12">
-                    <div class="row gy-4">
-                        <div class="col-md-4 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="d-flex align-items-center bg-light rounded p-4">
+                    <div class="col p-0 d-flex flex-wrap">
+                        <div class="col-md-4 wow contact-item fadeIn" data-wow-delay="0.1s">
+                            <a class="d-flex align-items-center rounded p-4 text-success" target="_blank" href="https://maps.app.goo.gl/CSojFjtCYbFtpq5W8">
                                 <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3"
                                     style="width: 45px; height: 45px;">
                                     <i class="fa fa-map-marker-alt text-primary"></i>
                                 </div>
                                 <span>Jr. Amorarca N°274, Morales, Perú</span>
-                            </div>
+                            </a>
                         </div>
-                        <div class="col-md-4 wow fadeIn" data-wow-delay="0.3s">
-                            <div class="d-flex align-items-center bg-light rounded p-4">
+                        <div class="col-md-4 wow contact-item fadeIn" data-wow-delay="0.3s">
+                            <a class="d-flex align-items-center rounded p-4 text-success"  href="mailto:posgradofisi@unsm.edu.pe">
                                 <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3"
                                     style="width: 45px; height: 45px;">
                                     <i class="fa fa-envelope-open text-primary"></i>
                                 </div>
                                 <span>posgradofisi@unsm.edu.pe</span>
-                            </div>
+                            </a>
                         </div>
-                        <div class="col-md-4 wow fadeIn" data-wow-delay="0.5s">
-                            <div class="d-flex align-items-center bg-light rounded p-4">
+                        <div class="col-md-4 wow contact-item  fadeIn" data-wow-delay="0.5s">
+                            <a class="d-flex align-items-center rounded p-4 text-success"  href="tel:++51941080289">
                                 <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3"
                                     style="width: 45px; height: 45px;">
                                     <i class="fa fa-phone-alt text-primary"></i>
                                 </div>
                                 <span>+51 941 080 289</span>
-                            </div>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -67,7 +65,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="wow fadeInUp" data-wow-delay="0.5s">
-                        <p class="mb-4">Si desea solicitar más información o enviarnos un comentario, puede rellenar el
+                        <p class="mb-4 fw-light text-justify">Si desea solicitar más información o enviarnos un comentario, puede rellenar el
                             siguiente formulario. Uno de nuestros asesores se pondrá en contacto con usted a la mayor
                             brevedad posible para resolver sus dudas y ofrecerle toda la información que necesite.</p>
                         <form>

@@ -120,7 +120,7 @@
                             </p>
                         </div>
                     </div>
-                    <a class="btn btn-primary py-3 px-5 mt-2" href="contact.html">Contactenos</a>
+                    <a class="btn btn-primary py-3 px-5 mt-2" href="contact.html">Contáctenos</a>
                 </div>
             </div>
         </div>
@@ -128,47 +128,47 @@
     <!-- About End -->
 
     <!-- Start Fun-facts
-    <div id="fun-facts" class="fun-facts section overlay">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-12">
-                    <div class="single-fun">
-                        <div class="content">
-                            <span class="counter"  data-count="1234">0</span>
-                            <p style="font-weight: 100">Alumnos</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-12">
-                    <div class="single-fun">
+                <div id="fun-facts" class="fun-facts section overlay">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-3 col-md-6 col-12">
+                                <div class="single-fun">
+                                    <div class="content">
+                                        <span class="counter"  data-count="1234">0</span>
+                                        <p style="font-weight: 100">Alumnos</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-12">
+                                <div class="single-fun">
 
-                        <div class="content">
-                            <span class="counter" data-count="1234">0</span>
-                            <p style="font-weight: 100">Egresados</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-12">
-                    <div class="single-fun">
+                                    <div class="content">
+                                        <span class="counter" data-count="1234">0</span>
+                                        <p style="font-weight: 100">Egresados</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-12">
+                                <div class="single-fun">
 
-                        <div class="content">
-                            <span class="counter" data-count="1">0</span>
-                            <p style="font-weight: 100">Maestrias</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-12">
-                    <div class="single-fun">
+                                    <div class="content">
+                                        <span class="counter" data-count="1">0</span>
+                                        <p style="font-weight: 100">Maestrias</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-12">
+                                <div class="single-fun">
 
-                        <div class="content">
-                            <span class="counter" data-count="5">0</span>
-                            <p style="font-weight: 100">Años de Servicios</p>
+                                    <div class="content">
+                                        <span class="counter" data-count="5">0</span>
+                                        <p style="font-weight: 100">Años de Servicios</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>-->
+                </div>-->
 
     <!-- Courses Start -->
     <div class="container-xxl py-5">
