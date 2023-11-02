@@ -304,7 +304,7 @@ return [
         // Sidebar items:
         [
             'type' => 'sidebar-menu-search',
-            'text' => 'search',
+            'text' => 'Estoy buscando',
         ],
         [
             'text' => 'blog',
@@ -313,20 +313,26 @@ return [
         ],
         [
             'text'        => 'Inicio',
-            'url'         => 'admin/pages',
-            'icon'        => 'far fa-fw fa-file',
+            'url'         => 'dashboard',
+            'icon'        => 'fa fa-home',
         ],
-        ['header' => 'account_settings'],
+        ['header' => 'MANTENIMIENTO'],
         [
-            'text' => 'profile',
-            'url'  => 'admin/settings',
-            'icon' => 'fas fa-fw fa-user',
+            'text' => 'Usuarios',
+            'url'  => '#',
+            'icon' => 'fa fa-user',
         ],
         [
-            'text' => 'change_password',
-            'url'  => 'admin/settings',
-            'icon' => 'fas fa-fw fa-lock',
+            'text' => 'Maestrias',
+            'url'  => '#',
+            'icon' => 'fa fa-circle',
         ],
+        [
+            'text' => 'Maestrias',
+            'url'  => '#',
+            'icon' => 'fa fa-circle',
+        ],
+        /*
         [
             'text'    => 'multilevel',
             'icon'    => 'fas fa-fw fa-share',
@@ -380,7 +386,7 @@ return [
             'text'       => 'information',
             'icon_color' => 'cyan',
             'url'        => '#',
-        ],
+        ],*/
     ],
 
     /*

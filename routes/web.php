@@ -31,7 +31,11 @@ Route::get('/maestria/1', function () {
 
 Route::get('/dashboard', function () {
     return view('admin.dashboard');
-})->middleware(['auth'])->name('dashboard');
+})->name('dashboard');
+/*
+Route::get('/dashboard', function () {
+    return view('admin.dashboard');
+})->middleware(['auth'])->name('dashboard');*/
 
 Auth::routes();
 

@@ -3,11 +3,11 @@
 @section('title', 'Users')
 
 @section('content_header')
-    <h1>Lista de Usuarios</h1>
+    <h1>Bienvenido a la Administración</h1>
 @stop
 
 @section('content')
-  Hola
+  
 @stop
 
 @section('css')
