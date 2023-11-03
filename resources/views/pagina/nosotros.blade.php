@@ -2,20 +2,41 @@
 
 @section('content')
     <!-- Header Start -->
-    <div class="container-fluid bg-primary py-5 mb-5 page-header">
-        <div class="container py-5">
-            <div class="row justify-content-center">
-                <div class="col-lg-10 text-center">
-                    <h1 class="display-3 text-white animated slideInDown">¿Quienes somos?</h1>
-                    <p style="color: white">La Unidad de Posgrado de la Facultad de Ingenieria de Sistemas e Informática de
-                        la Universidad Nacional de San Martín - Tarapoto, de acuerdo a su competencia y cumpliendo con sus
-                        fines y objetivos creados, desarrollara las especialidades en Maestria.</p>
+    <div class="breadcrumbs overlay" style="background-image: url('../img/episiequipo.png');">
+        <div class="container">
+            <div class="bread-inner">
+                <div class="row justify-content-center">
+                    <div class="col-lg-10 text-center">
+                        <h1 class="display-3 text-white animated slideInDown">¿Quienes somos?</h1>
+                        <p style="color: white">La Unidad de Posgrado de la Facultad de Ingenieria de Sistemas e Informática de
+                            la Universidad Nacional de San Martín - Tarapoto, de acuerdo a su competencia y cumpliendo con sus
+                            fines y objetivos creados, desarrollara las especialidades en Maestria.</p>
+                    </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+   
     <!-- Header End -->
-
+<!-- About start -->
+<div class="container" style="padding-top: 48px;padding-bottom: 48px;">
+    <div class="row">
+     <div class="col text-center  ">
+        <h1 class="col text-center bi bi-bar-chart-fill text-success ">
+            MISIÓN
+        </h1>
+        <p class="col  text-black" > Liderar la modernización y sistematización de la Unidad de Posgrado, brindando un entorno tecnológico eficiente, apoyo integral a Maestrantes y promoviendo normas de vanguardia en tecnología de la información.</p>
+     </div>
+     <div class="col text-center  ">
+        <h1 class="col text-center bi bi-eye-fill text-success ">
+            VISIÓN
+        </h1>
+        <p class="col  text-sblack"  >Ser un referente de excelencia en la gestión de la información y tecnología computacional en la educación de posgrado, optimizando recursos y promoviendo estándares líderes en el campo, con el compromiso de evolucionar continuamente para el éxito de la Unidad.</p>
+     </div>
+    </div>
+   </div>
+<!-- About End -->
 
     <!-- Service Start -->
 
